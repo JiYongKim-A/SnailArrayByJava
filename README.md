@@ -5,6 +5,8 @@ How this code works
 2. run 'SnailArray.java'
 
 console
+
+
 ![snailArray](https://user-images.githubusercontent.com/81874493/133001833-03b64229-e873-4213-b938-f742cb65148f.PNG)
 
 
